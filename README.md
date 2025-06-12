@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="[IMG_20250530_233423_934.jpg](https://avatars.githubusercontent.com/u/211943230?v=4)" alt="SPy Logo" width="300">
-</p>
 
 <h1 align="center">🐍 SPY – Students of Python</h1>
 
@@ -9,7 +6,7 @@
 
 ## 📘 Overview
 
-**SPy (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.  
+**SPY (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.  
 
 > _“Our mission is simple: Learn together. Code together.”_
 
@@ -67,8 +64,8 @@ Instagram: `instagram.com/spy.coders`
 
 ## ✍️ Author
 
-**SPy team**   
-Founder, SPy – Students of Python  
+**SPY team**   
+Founder, SPY – Students of Python  
 [GitHub Profile](https://github.com/spy-coders)
 
 ---
